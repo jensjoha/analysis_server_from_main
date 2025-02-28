@@ -4,3 +4,42 @@ environment:
   sdk: ^3.6.0
 workspace:
   - pkg/analysis_server
+  - pkg/language_server_protocol
+  - pkg/collection
+  - pkg/analyzer_plugin
+  - pkg/analysis_server_plugin
+  - pkg/analyzer
+  - pkg/meta
+  - pkg/_fe_analyzer_shared
+  - pkg/pub_semver
+  - pkg/yaml
+  - pkg/yaml_edit
+  - pkg/source_span
+  - pkg/path
+  - pkg/unified_analytics
+  - pkg/glob
+  - pkg/watcher
+  - pkg/http
+  - pkg/linter
+  - pkg/file
+  - pkg/memory_usage
+  - pkg/dart_style
+  - pkg/telemetry
+  - pkg/convert
+  - pkg/crypto
+  - pkg/args
+  - pkg/stream_channel
+  - pkg/dtd
+  - pkg/json_rpc_2
+  - pkg/vm_service
+  - pkg/package_config
+  - pkg/async
+  - pkg/typed_data
+  - pkg/web_socket_channel
+  - pkg/string_scanner
+  - pkg/http_parser
+  - pkg/stack_trace
+  - pkg/clock
+  - pkg/term_glyph
+  - pkg/web
+  - pkg/web_socket
